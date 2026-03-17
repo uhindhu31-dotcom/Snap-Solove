@@ -1,0 +1,14 @@
+name: snap_solve
+description: "A new Flutter project."
+publish_to: 'none' 
+version: 1.0.0+1
+environment:
+  sdk: ^3.11.1
+dependencies:
+  flutter:
+    sdk: flutter
+
+  image_picker: ^1.0.7
+  geolocator: ^10.1.0
+  speech_to_text: ^7.3.0
+  cupertino_icons: ^1.0.8
